@@ -3,7 +3,12 @@ my name is diya and u?
 o ya nice to meet u
 im hemel
 where are you studing now?
+<<<<<<< HEAD
 thanku dear
 i am studing at united internal university
 okk sounds good. now what are the future plan
 at this moment i haven't any plan
+=======
+and what is the location?
+i am studing at united internal university
+>>>>>>> 84e14b64ff6c62e49e519ffc47df77e08a1ce2bf
